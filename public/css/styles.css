@@ -1,0 +1,224 @@
+.logo {
+  max-width: 40px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+body {
+  font-family: SF MONO, Arial, Helvetica;
+}
+
+h1 {
+  color: #1b1e21;
+}
+
+#promo {
+  text-align: center;
+  padding: 40px;
+  background: url("../img/background.jpg");
+  background-size: cover;
+}
+
+@media (max-width: 576px) {
+  #promo {
+    padding: 20px;
+  }
+}
+
+#promo textarea {
+  min-height: 250px;
+}
+
+#promo .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,213,104,0.95);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#promo a {
+  color: #1b1e21;
+}
+
+
+#promo i {
+  font-size: 30px;
+}
+
+
+@media (max-width: 577px) {
+  #promo .jumbotron {
+    padding: 20px;
+  }
+}
+
+#promo img {
+  height: 210px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: inline-block;
+  padding: 1px;
+  margin: 15px;
+}
+
+.jumbotron h1 {
+  margin-bottom: 25px;
+}
+
+.jumbotron {
+  color: black;
+}
+
+.site-section {
+  text-align: center;
+  padding: 50px 0 60px;
+}
+
+#welcome p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.site-section h1 {
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+#why .item i {
+  font-size: 35px;
+  color: rgba(255,255,255,0.95);
+}
+
+#why a {
+  margin-top: 25px;
+  color: #1b1e21;
+}
+
+#why h2 {
+  font-weight: bolder;
+  font-size: 28px;
+  color: #1b1e21;
+}
+
+.dark-section {
+  background-color: rgba(255,213,104,0.95);
+}
+
+#promo p {
+  color: black;
+}
+
+#promo i {
+  color: black;
+}
+
+#promo button {
+  background-color: white;
+  border-color: lightgray;
+  margin: 10px;
+  color: black;
+}
+
+#promo textarea {
+  margin: 10px;
+}
+
+#promo .jumbotron {
+  min-height: 250px;
+}
+
+.form-control {
+  margin: 10px;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+  color: #000000;
+}
+
+.navbar-light .navbar-brand {
+  color: black;
+}
+
+.img-fluid {
+  height: 250px;
+}
+
+ul.pagination {
+  margin: 10px 10px;
+  padding: 10px 10px;
+}
+
+.page-link {
+  background-color: rgba(255,213,104,0.95);
+  border-color: rgba(255,213,104,0.95);
+  color: #1b1e21;
+  box-shadow: 0 1rem 3rem rgba(0,0,0,0.175)
+}
+.page-item.disabled .page-link {
+  color: #1b1e21;
+  background-color: rgba(255,213,104,0.95);
+  border-color: rgba(255,213,104,0.95);
+}
+
+.page-item.active .page-link {
+  color: #1b1e21;
+  background-color: white;
+  border-color: lightgray;
+}
+
+.page-item .page-link:hover {
+  color: #1b1e21;
+  background-color: white;
+  border-color: lightgray;
+}
+
+.sort button {
+  background-color: rgba(255,213,104,0.95);
+  border-color: lightgray;
+  color: black;
+}
+
+.sort button:hover {
+  color: black;
+  background-color: white;
+  border-color: rgba(255, 213, 104, 1);
+}
+
+.btn button:focus {
+  border-color: white;
+  outline: none !important;
+  box-shadow: none !important;
+  border-radius: 8px;
+}
+.btn button:active {
+  border-color: white;
+  outline: none !important;
+  box-shadow: none !important;
+  border-radius: 8px;
+}
+
+.sort select {
+  background-color: rgba(255,213,104,0.95);
+  border-color: lightgray;
+  color: black;
+}
+
+.sort select:hover {
+  color: black;
+  background-color: white;
+  border-color: rgba(255, 213, 104, 1);
+}
+
+.sort select:focus {
+  border-color: rgba(255, 213, 104, 1);
+  outline: none !important;
+  box-shadow: none;
+  border-radius: 8px;
+}
