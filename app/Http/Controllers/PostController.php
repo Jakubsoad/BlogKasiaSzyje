@@ -1,5 +1,5 @@
 <?php
-
+//TODO: rozbić na wiele funkcjonalności
 namespace App\Http\Controllers;
 
 use App\Post;

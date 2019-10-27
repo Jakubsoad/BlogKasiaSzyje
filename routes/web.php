@@ -13,17 +13,12 @@
 
 Route::get('/', 'PostController@index');
 
-Route::get('/create', 'PostController@create');
-
 Route::get('/blog', 'PostController@show');
 
 //Todo: poprawić zapis!
 Route::post('/save', 'PostController@store');
 
 Route::get('/blog/{id}', 'PostController@article')->where('id', '[0-9]+');
-
-//Sortowanie:
-Route::get('/blog/sort', 'PostController@sort');
 
 Route::get('/o-mnie', 'Controller@about');
 
@@ -32,3 +27,6 @@ Route::get('/kontakt', 'Controller@contact');
 Route::get('/sklep', 'Controller@shop');
 
 Route::post('/kontakt', 'Controller@send_message');
+
+//Zrobić autoryzację do tworzenia postów
+//Route::get('/create', 'PostController@create');

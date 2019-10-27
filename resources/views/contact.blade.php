@@ -1,4 +1,5 @@
 @include('layout.nav')
+
 <div id="promo">
         <div class="jumbotron shadow-lg">
             {{--TODO: wyświetlaj bledy z sesji--}}
@@ -16,4 +17,5 @@
             </form>
         </div>
 </div>
+
 @include('layout.footer')

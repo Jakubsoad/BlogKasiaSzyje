@@ -13,7 +13,7 @@ class PostsTableSeeder extends Seeder
      */
     public function run()
     {
-        for ($i=0;$i<=25000;$i++) {
+        for ($i=0;$i<=250;$i++) {
             $rand = rand(0, 2);
             $categories = ['idea', 'sewing', 'upholstery'];
             DB::table('posts')->insert([
