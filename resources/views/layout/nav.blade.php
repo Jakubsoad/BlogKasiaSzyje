@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="{{asset('/css/Pretty-Footer.css')}}">
     <link rel="stylesheet" href="{{asset('/css/styles.css')}}">
     <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/0052326e24.js" crossorigin="anonymous"></script>
+
 
 </head>
 

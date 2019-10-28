@@ -23,9 +23,16 @@
                 <h4>O stronie KasiaSzyje</h4>
                 <p>
                     Ta strona jest wizytówką programistyczną - pierwszym moim projektem, który jest dostępny online.
-                    Poniżej są linki do GitHuba i kodu tej strony, a obok linki do kontaktu ze mną. Jakub Mróz
+                    Poniżej są linki do GitHuba i kodu tej strony, a obok linki do kontaktu ze mną. Jeżeli masz jakieś
+                    uwagi lub propozycje współpracy - śmiało pisz:)<br>
+                    Jakub Mróz
                 </p>
-                <div class="social-links social-icons"><a href="https://www.facebook.com/jakub.mroz.37853" target="_blank"><i class="icon ion-logo-facebook"></i></a><a href="https://www.linkedin.com/in/jakub-mr%C3%B3z-b1b11118a/" target="_blank"><i class="icon ion-logo-linkedin"></i></a><a href="https://github.com/Jakubsoad/BlogKasiaSzyje" target="_blank"><i class="icon ion-logo-github"></i></a></div>
+                <div class="social-links social-icons">
+                    <a href="https://www.linkedin.com/in/jakub-mr%C3%B3z-b1b11118a/" target="_blank"><i class="icon ion-logo-linkedin"></i></a>
+                    <a href="https://github.com/Jakubsoad/BlogKasiaSzyje" target="_blank"><i class="icon ion-logo-github"></i></a>
+                    <a href="mailto:jakub.soad@gmail.com" target="_blank"><i class="icon ion-md-mail"></i></a>
+                    <a href="https://www.facebook.com/jakub.mroz.37853" target="_blank"><i class="icon ion-logo-facebook"></i></a>
+                </div>
             </div>
         </div>
     </div>
