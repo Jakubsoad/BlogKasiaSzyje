@@ -9,7 +9,7 @@
                 @csrf
                 <input type="text" placeholder="Podpisz się" name="name" class="form-control" value="{{ old('name') }}">
                 <div>{{ $errors->first('name') }}</div>
-                <input type="text" placeholder="No i nie zapomnij wpisać maila" name="mail" class="form-control" value="{{ old('mail') }}">
+                <input type="text" placeholder="No i nie zapomnij wpisać adresu email" name="mail" class="form-control" value="{{ old('mail') }}">
                 <div>{{ $errors->first('mail') }}</div>
                 <textarea name="message" placeholder="A tu napisz wiadomość" class="form-control" >{{ old('message') }}</textarea>
                 <div>{{ $errors->first('message') }}</div>

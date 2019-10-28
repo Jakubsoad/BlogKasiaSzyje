@@ -2,54 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="884dae08-c87b-4b62-8416-213707b8fe13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Mail/ContactFormMail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/complexity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/coupling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/css/clusterize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/css/material-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/css/milligram.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/css/milligram.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/css/roboto.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/fonts/material-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/fonts/roboto-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/fonts/roboto-light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/images/logo-git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/images/phpmetrics-maintenability.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/clusterize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/d3.hexbin.v0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/d3.v3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/graph-licenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/graph-maintainability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/history-1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/latest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/js/sort-table.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/junit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/loc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/oop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/package_relations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/packages.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/panel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/relations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myreport/violations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/emails/contact/contact-form.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PostsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PostsTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Mail/ContactFormMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Mail/ContactFormMail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/emails/contact/contact-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/emails/contact/contact-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/post/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/post/blog.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +233,9 @@
       <workItem from="1571934884705" duration="6417000" />
       <workItem from="1572017027545" duration="754000" />
       <workItem from="1572113896685" duration="14000" />
-      <workItem from="1572180907733" duration="560000" />
+      <workItem from="1572180907733" duration="1643000" />
+      <workItem from="1572188197961" duration="229000" />
+      <workItem from="1572243591091" duration="5078000" />
     </task>
     <servers />
   </component>

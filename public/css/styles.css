@@ -222,3 +222,7 @@ ul.pagination {
   box-shadow: none;
   border-radius: 8px;
 }
+
+.footer-about p{
+    color: black;
+}

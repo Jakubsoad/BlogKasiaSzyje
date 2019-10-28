@@ -24,14 +24,6 @@
                 @endforeach
             </select>
         </label>
-        <label>
-            <select class="custom-select" name="sort">
-                <option disabled selected>Wybierz sposób sortowania...</option>
-                <option value="orderByDesc">Od najnowszego</option>
-                <option value="orderBy">Od najstarszego</option>
-                {{--TODO: Walidacja pustego sort--}}
-            </select>
-        </label>
         <button type="submit" class="btn">Wybierz</button>
     </form>
 </div>

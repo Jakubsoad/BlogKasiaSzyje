@@ -1,12 +1,6 @@
-@component('mail::message')
-# Introduction
-
-The body of your message.
-
-@component('mail::button', ['url' => ''])
-Button Text
-@endcomponent
-
-Thanks,<br>
-{{ config('app.name') }}
-@endcomponent
+ <div><br>
+    Użytkownik {{$data['name']}} ma do ciebie pytanie:<br>
+    {{$data['message']}}<br>
+     Odpisz mu najszybciej jak to możliwe na tego maila:
+     <a href = "mailto:{{$data['mail']}}">{{$data['mail']}}</a>
+  </div>

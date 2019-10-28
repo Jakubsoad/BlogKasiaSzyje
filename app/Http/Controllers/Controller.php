@@ -38,7 +38,7 @@ class Controller extends BaseController
             'message' => 'required'
         ]);
 
-        Mail::to('jakub.soad@gmail.com')->send(new ContactFormMail());
+        Mail::to('jakub.soad@gmail.com')->send(new ContactFormMail($data));
 
         return view('success');
     }

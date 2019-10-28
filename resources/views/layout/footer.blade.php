@@ -20,9 +20,12 @@
             </div>
             <div class="clearfix"></div>
             <div class="col-md-4 footer-about">
-                <h4>About the company</h4>
-                <p> Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet. </p>
-                <div class="social-links social-icons"><a href="#"><i class="icon ion-logo-facebook"></i></a><a href="#"><i class="icon ion-logo-twitter"></i></a><a href="#"><i class="icon ion-logo-linkedin"></i></a><a href="#"><i class="icon ion-logo-github"></i></a></div>
+                <h4>O stronie KasiaSzyje</h4>
+                <p>
+                    Ta strona jest wizytówką programistyczną - pierwszym moim projektem, który jest dostępny online.
+                    Poniżej są linki do GitHuba i kodu tej strony, a obok linki do kontaktu ze mną. Jakub Mróz
+                </p>
+                <div class="social-links social-icons"><a href="https://www.facebook.com/jakub.mroz.37853" target="_blank"><i class="icon ion-logo-facebook"></i></a><a href="https://www.linkedin.com/in/jakub-mr%C3%B3z-b1b11118a/" target="_blank"><i class="icon ion-logo-linkedin"></i></a><a href="https://github.com/Jakubsoad/BlogKasiaSzyje" target="_blank"><i class="icon ion-logo-github"></i></a></div>
             </div>
         </div>
     </div>

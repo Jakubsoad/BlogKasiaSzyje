@@ -86,10 +86,7 @@ class PostController extends Controller
     //TODO: ogarnac paginacje
     public function sort(Request $request)
     {
-        if($request->sort == 'orderBy')
-            $posts = DB::table('posts')->orderBy('id');
-        else
-            $posts = DB::table('posts')->orderByDesc('id');
+        $posts = DB::table('posts')->orderBy('id');
 
         if (($request->category=='sewing')||($request->category=='upholstery')||($request->category=='idea'))  {
             $posts = $posts->where('category', $request->category)->paginate(5);
