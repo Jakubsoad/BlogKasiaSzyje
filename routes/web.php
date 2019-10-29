@@ -29,6 +29,6 @@ Route::get('/sklep', 'Controller@shop');
 Route::post('/kontakt', 'Controller@send_message');
 
 //TODO: ogarnac readme
-
+//TODO: zrobic tytuly dla podstron
 //Zrobić autoryzację do tworzenia postów
 //Route::get('/create', 'PostController@create');
