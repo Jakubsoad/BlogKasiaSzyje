@@ -15,7 +15,8 @@
     <ul>
     Server:
     <li>Ubuntu 18.04</li>
-    <li>Ngignx</li>
-    </ul>
+    <li>Ngignx 1.14</li>
+    <li>MySQL 5.7</li>
+   </ul>
 </p>
-Test - update from server
+
