@@ -54,12 +54,14 @@ h1 {
 }
 
 #promo img {
-  height: 210px;
+  height: auto;
+  max-width: 100%;
   border-radius: 8px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   display: inline-block;
-  padding: 1px;
-  margin: 15px;
+  padding: 5px;
+  margin-bottom: 12px;
+  margin-top: 12px;
 }
 
 .jumbotron h1 {
@@ -226,3 +228,4 @@ ul.pagination {
 .footer-about p{
     color: black;
 }
+
